@@ -1,5 +1,7 @@
 # Woof-App
-Aplicación que utiliza los componentes de Material Design 3, como Color Scheme, Typography y Shape.
+Aplicación que utiliza los componentes de Material Design 3 en Jetpack Compose, como Color Scheme, Typography y Shape.
+
+Esta aplicación es producto del codelab [Material Theming with Jetpack Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-material-theming?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-3-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-material-theming#0)
 
 ### Light mode
 
