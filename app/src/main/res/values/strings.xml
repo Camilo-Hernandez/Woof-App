@@ -23,4 +23,5 @@
     <string name="expand_button_content_description">See more or less information about a dog.</string>
     <string name="menu">Menu</string>
     <string name="search">Search</string>
+    <string name="card_s_color_animation">Card\'s color animation</string>
 </resources>
