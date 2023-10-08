@@ -1,0 +1,19 @@
+
+f
+6app/src/main/java/com/camihruiz24/woof_app/data/Dog.kt,7\9\79490c1c5f07db4480275ef1277ddae339d8f639
+l
+<app/src/main/java/com/camihruiz24/woof_app/ui/theme/Color.kt,3\4\34350a2034fa7df6665d5b685792e79b9fb4ac6e
+k
+;app/src/main/java/com/camihruiz24/woof_app/ui/theme/Type.kt,8\9\89ec844d6f2d6c858e449b64d7c6ce8ad9b3b36c
+l
+<app/src/main/java/com/camihruiz24/woof_app/ui/theme/Shape.kt,1\0\102b567119059af89f91ffd4a35b6c4c2e3b9a51
+l
+<app/src/main/java/com/camihruiz24/woof_app/ui/theme/Theme.kt,6\8\68eaa1cb997f31e637ec1b9ece65c2222da06141
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/camihruiz24/woof_app/MainActivity.kt,4\b\4b15a478b0c5b16f3c04974f1d91519cdc5a526b
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
